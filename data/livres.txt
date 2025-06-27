@@ -1,0 +1,5 @@
+1;A;AA;2025;AAA;disponible
+2;B;BB;2004;BBB;emprunté
+3;C;CC;2001;AAA;emprunté
+4;D;DD;2024;CCC;disponible
+6;v;vv;2007;vvv;disponible
